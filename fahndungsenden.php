@@ -1,6 +1,9 @@
 <?php
 
 include './config.php';
+/* There $botnumber and $chatid are defined. I'll don't share that with you, because the telegram-group is already in use. */
+
+
 
 $text = "TEXTMESSAGE";  // This is the variable for the content of the message.
 
